@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Tennessee Jade M. Bragais</h1>
-    <p class="contact">Bachelor of Science in Computer Science<br>
+    <p class="contact">Bachelor of Science in Information Technology<br>
     New Era University<br>
     2024 - Present</p>
     <section>
