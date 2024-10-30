@@ -3,32 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tennessee Jade M. Bragais - Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-        h1 {
-            text-align: center;
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        .contact {
-            text-align: center;
-            margin: 20px 0;
-        }
-    </style>
 </head>
 <body>
     <h1>Tennessee Jade M. Bragais</h1>
-    <p class="contact">Bachelor of Science in Information Technology<br>
+    <p class="contact">Bachelor of Science in Computer Science<br>
     New Era University<br>
     2024 - Present</p>
     <section>
@@ -39,12 +17,11 @@
         <p><strong>College:</strong> Bachelor of Science Major in Information Technology<br>
            New Era University (2023 - Present)</p>
     </section>
-
     <section>
         <h2>🎓 Certifications</h2>
         <p>SQL and Relational Databases 101<br>
            A course on cognitiveclass.ai<br>
-           <a href="[https://courses.cognitiveclass.ai/certificates/bf0ce26fefe24f438d35de38c997d4d9]">View Certificate</a></p>
+           <a href="https://courses.cognitiveclass.ai/certificates/bf0ce26fefe24f438d35de38c997d4d9">View Certificate</a></p>
     </section>
     <section>
         <h2>💻 Skillsets</h2>
@@ -62,7 +39,6 @@
         <p>Manage events and meeting coordination.<br>
            Supervising building maintenance activities.</p>
     </section>
-
     <footer>
         <p>Please contact me at <a href="mailto:bragaistenessee@gmail.com">bragaistenessee@gmail.com</a> or on LinkedIn if you have any questions.</p>
     </footer>
