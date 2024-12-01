@@ -22,6 +22,9 @@
         <p>SQL and Relational Databases 101<br>
            A course on cognitiveclass.ai<br>
            <a href="https://courses.cognitiveclass.ai/certificates/bf0ce26fefe24f438d35de38c997d4d9">View Certificate</a></p>
+         <p>Oracle Cloud Infrastructure 2024 Certified Foundations Associate<br>
+          Oracle<br>
+           <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=35C12E67DB308094029B8F75208D4ED6CA39D4DC411DE94A440F8031C7CE2EF2#">View Certificate</a></p>
     </section>
     <section>
         <h2>💻 Skillsets</h2>
