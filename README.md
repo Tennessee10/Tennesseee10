@@ -25,6 +25,8 @@
          <p>Oracle Cloud Infrastructure 2024 Certified Foundations Associate<br>
           A course on Oracle<br>
            <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=35C12E67DB308094029B8F75208D4ED6CA39D4DC411DE94A440F8031C7CE2EF2#">View Certificate</a></p>
+        <p>Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate<br>
+           <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=35C12E67DB308094029B8F75208D4ED63DC3F44AB3DB4C876247F572A87BB7B0#">View Certificate</a></p>
     </section>
     <section>
         <h2>💻 Skillsets</h2>
